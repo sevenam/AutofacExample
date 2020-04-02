@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VuiqZFmiw2Mq79QSqWQNbE4TjoHSga+T+yQE9eZBZtpyNwgkJUcNGAA1jwHLtgkn9ICk7skCPNMYVohHr84v1g==",
+  "success": true,
+  "projectFilePath": "C:\\code\\AutofacExample\\AutofacExample\\AutofacExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnbo\\.nuget\\packages\\autofac\\5.1.2\\autofac.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

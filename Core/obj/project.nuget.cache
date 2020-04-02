@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DvyaplZqqGP/OYVJI2/+XcTiu8Txjq5hDefJGSr9GF4iuReQ+Bxe4cDk5iCtZUVzLwJCZD3NrGUg+RhQYTk/ng==",
+  "success": true,
+  "projectFilePath": "C:\\code\\AutofacExample\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnbo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\johnbo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

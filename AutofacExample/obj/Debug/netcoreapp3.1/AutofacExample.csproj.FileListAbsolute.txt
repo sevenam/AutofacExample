@@ -1,0 +1,17 @@
+C:\code\AutofacExample\AutofacExample\bin\Debug\netcoreapp3.1\Core.dll
+C:\code\AutofacExample\AutofacExample\obj\Debug\netcoreapp3.1\AutofacExample.csprojAssemblyReference.cache
+C:\code\AutofacExample\AutofacExample\obj\Debug\netcoreapp3.1\AutofacExample.AssemblyInfoInputs.cache
+C:\code\AutofacExample\AutofacExample\obj\Debug\netcoreapp3.1\AutofacExample.AssemblyInfo.cs
+C:\code\AutofacExample\AutofacExample\obj\Debug\netcoreapp3.1\AutofacExample.csproj.CoreCompileInputs.cache
+C:\code\AutofacExample\AutofacExample\bin\Debug\netcoreapp3.1\AutofacExample.exe
+C:\code\AutofacExample\AutofacExample\bin\Debug\netcoreapp3.1\AutofacExample.deps.json
+C:\code\AutofacExample\AutofacExample\bin\Debug\netcoreapp3.1\AutofacExample.runtimeconfig.json
+C:\code\AutofacExample\AutofacExample\bin\Debug\netcoreapp3.1\AutofacExample.runtimeconfig.dev.json
+C:\code\AutofacExample\AutofacExample\bin\Debug\netcoreapp3.1\AutofacExample.dll
+C:\code\AutofacExample\AutofacExample\bin\Debug\netcoreapp3.1\AutofacExample.pdb
+C:\code\AutofacExample\AutofacExample\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\code\AutofacExample\AutofacExample\bin\Debug\netcoreapp3.1\Core.pdb
+C:\code\AutofacExample\AutofacExample\obj\Debug\netcoreapp3.1\AutofacExample.csproj.CopyComplete
+C:\code\AutofacExample\AutofacExample\obj\Debug\netcoreapp3.1\AutofacExample.dll
+C:\code\AutofacExample\AutofacExample\obj\Debug\netcoreapp3.1\AutofacExample.pdb
+C:\code\AutofacExample\AutofacExample\obj\Debug\netcoreapp3.1\AutofacExample.genruntimeconfig.cache
